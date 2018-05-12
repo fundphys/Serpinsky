@@ -1,1 +1,2 @@
-# Serpinsky
+
+#Build Serpinsky fractal image. 
