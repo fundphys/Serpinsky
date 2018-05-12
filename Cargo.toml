@@ -1,0 +1,9 @@
+[package]
+name = "serpinsky"
+version = "0.1.0"
+authors = ["igor <fundphys@gmail.com>"]
+
+[dependencies]
+image = "*"
+rand = "*"
+
